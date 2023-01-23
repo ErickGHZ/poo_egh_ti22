@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.python39Packages.clvm-tools
     pkgs.python38Full
   ];
   env = {
