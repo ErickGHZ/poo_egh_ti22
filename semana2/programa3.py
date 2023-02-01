@@ -2,7 +2,7 @@
     Programa 3
     Nombre: Erick Gutierrez Hernandez
     Fecha: 24/01/2023
-    Descripcion:  En este programa veremos como realizar impresiones de operaciones aritmeticas de la forma tradicional "print" y con la funcion format
+    Descripcion: En este programa veremos como realizar impresiones de operaciones aritmeticas de la forma tradicional "print" y con la funcion format
 """
 variable1 = 10  #  variable para almacenar una cadena de caracteres
 variable2 = 5  #  variable para almacenar una cadena de caracteres

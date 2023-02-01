@@ -10,7 +10,8 @@
 |3|programa2.py|Concatenaciones de variables e identificar errores|
 |4|programa3.py|Operaciones aritemeticas y como mostrarlas con la funcion format|
 |5|programa4.py|Convertir un string a un int con casting|
-|6|tarea0.py|Cacular e imprimir el perimetro y area de cualquier triangulo|
+|6|programa5.py|Cacular e imprimir el perimetro y area de cualquier triangulo|
+
 
 
 

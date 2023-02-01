@@ -1,5 +1,8 @@
 """
-Programa de Python para calcular y medir el perímetro y área de cualquier triángulo
+    Programa 5
+    Nombre: Erick Gutierrez Hernandez
+    Fecha: 30/01/2023
+    Descripción: Programa de para calcular el perímetro y área de cualquier triángulo
 """
 import math  #  importa la libreria math para poder realizar una raiz cuadrada
 
