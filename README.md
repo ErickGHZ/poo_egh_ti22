@@ -11,7 +11,9 @@
 |4|programa3.py|Operaciones aritemeticas y como mostrarlas con la funcion format|
 |5|programa4.py|Convertir un string a un int con casting|
 |6|programa5.py|Calcular e imprimir el perimetro y area de cualquier triangulo|
-|7|programa7.py|Calcular e imprimir el perimetro y area de un circulo y un cuadrado|
+|7|programa6.py|Calcular e imprimir el perimetro y area de un circulo y un cuadrado|
+|8|programa7.py|Programa para comparar 2 números enteros e imprimir el número mayor|
+
 
 
 
