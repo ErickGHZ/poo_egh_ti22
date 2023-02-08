@@ -59,3 +59,26 @@ if n2>=n1:
 else:
     print(n1)
 
+if n1>=n2:
+    if n1==n2:
+        print(None)
+    else:
+        print(n1)
+else:
+    print(n2)
+
+if n2>=n1:
+    if n2==n1:
+        print(None)
+    else:
+        print(n2)
+else:
+    print(n1)
+
+if n1==n2:
+    print(None)
+elif n1>n2:
+    print(n1)
+else:
+    print(n2)
+
