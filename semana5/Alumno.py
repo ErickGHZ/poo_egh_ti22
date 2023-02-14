@@ -1,3 +1,9 @@
+"""
+    Programa 13
+    Nombre: Erick Gutierrez Hernandez
+    Fecha: 13/02/2023
+    Descripción: Crea una clase de un alumno, incializa variables privadas a las cuales se accede despues mediante funciones y por ultimo mediante funciones accede a las variables privadas y las imprime
+"""
 class Alumno:  #  crea una clase
 	__nombre = None  #  variable privada
 	__matricula = None  #  variable privada
@@ -16,7 +22,7 @@ class Alumno:  #  crea una clase
 	def getMatricula(self):  #  creea una funcion para poder acceder a una variable privada
 		return self.__matricula  #  devuelve el valor que se encuentra en la variable privada
 	
-	def setCarrera(self, carrera):matricula):  #  creea una funcion para poder acceder y darle valor a la variable privada
+	def setCarrera(self, carrera):  #  creea una funcion para poder acceder y darle valor a la variable privada
 		self.__carrera = carrera  #  asigna un valor a la variable privada
 	def getCarrera(self):  #  creea una funcion para poder acceder a una variable privada
 		return self.__carrera  #  devuelve el valor que se encuentra en la variable privada

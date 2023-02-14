@@ -1,8 +1,8 @@
 """
-    Programa 9
+    Programa 10
     Nombre: Erick Gutierrez Hernandez
     Fecha: 08/02/2023
-    Descripción: Programa para saber que numero es mayor mediante metodos
+    Descripción: Comparar 2 numeros enteros en imprimir el numero mayor mediante, Definiciones de la forma pythonic
 """
 def mayor(numero1:int, numero2:int)->int:  #  define una funcion la cual solicita la entrada de dos variables y por medio del typing sugiere el tipo de datos que se daran y la salida
     mayor = None  #  asigna un valor en este caso el valor es "vacio" a un variiable

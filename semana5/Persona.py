@@ -1,4 +1,10 @@
-class Persona:
+"""
+    Programa 12
+    Nombre: Erick Gutierrez Hernandez
+    Fecha: 13/02/2023
+    Descripción: Crea una clase de una persona, incializa variables privadas a las cuales se accede despues mediante funciones y por ultimo, mediante funciones accede a las variables privadas y las imprime
+"""
+class Persona:  #  crea una clase
 	__nombre = None  #  __nombre variable privada
 	__email = None  #  variable privada
 
