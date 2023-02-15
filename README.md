@@ -16,10 +16,13 @@
 |9|programa8.py|11 programas para comparar 2 números enteros e imprimir el número mayor|
 |10|programa9.py|Programa para saber que numero es mayor mediante metodos|
 |11|programa10.py|Comparar 2 numeros enteros en imprimir el numero mayor mediante, Definiciones de la forma pythonic|
-|12|Persona.py|Crea una clase de una persona, incializa variables privadas a las cuales se accede despues mediante funciones y por ultimo mediante funciones accede a las variables privadas y las imprime|
-|13|Alumno.py|Crea una clase de un alumno, incializa variables privadas a las cuales se accede despues mediante funciones y por ultimo mediante funciones accede a las variables privadas y las imprime|
+|12|persona.py|Crea una clase de una persona, incializa variables privadas a las cuales se accede despues mediante funciones y por ultimo mediante funciones accede a las variables privadas y las imprime|
+|13|alumno.py|Crea una clase de un alumno, incializa variables privadas a las cuales se accede despues mediante funciones y por ultimo mediante funciones accede a las variables privadas y las imprime|
 |14|herencia.py|Herencia de clases mediante funcion|
 |15|poo.py|Herencia de clases mediante funciones|
+|16|persona.py|Crea un clase|
+|17|alumno.py|Crea una clase la cual tiene atributos los cuales son heredados de otra clase que esta en otro documento|
+|18|profesor.py|Crea una clase la cual tiene atributos los cuales son heredados de otra clase que esta en otro documento|
 
 
 
