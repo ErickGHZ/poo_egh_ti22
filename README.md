@@ -18,6 +18,8 @@
 |11|programa10.py|Comparar 2 numeros enteros en imprimir el numero mayor mediante, Definiciones de la forma pythonic|
 |12|Persona.py|Crea una clase de una persona, incializa variables privadas a las cuales se accede despues mediante funciones y por ultimo mediante funciones accede a las variables privadas y las imprime|
 |13|Alumno.py|Crea una clase de un alumno, incializa variables privadas a las cuales se accede despues mediante funciones y por ultimo mediante funciones accede a las variables privadas y las imprime|
+|14|herencia.py|Herencia de clases mediante funcion|
+|15|poo.py|Herencia de clases mediante funciones|
 
 
 

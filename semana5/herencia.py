@@ -2,7 +2,7 @@
     Programa 14
     Nombre: Erick Gutierrez Hernandez
     Fecha: 14/02/2023
-    Descripción: Se crean 2 clases la cual una herreda sus atributos a otra mediante funciones
+    Descripción: Herencia de clases mediante funciones
 """
 class Persona:  #  crea una clase
     __nombre = None  #  variable privada
